@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Garv Portfolio Website",
-  description: "Modern Port",
+  description: "Modern Portfolio",
 };
 
 export default function RootLayout({
